@@ -6,3 +6,5 @@ PyPDF2
 pdfplumber
 scikit-learn
 xgboost
+OpenAI
+
